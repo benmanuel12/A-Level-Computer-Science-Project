@@ -12,7 +12,7 @@ The aim of the game: Cure as many people as you can so that the infection is gon
 
 To use:
 
--Clone the repo
--Open the .py file in a python editor (I used IDLE 3.7)
--Run the program.
+- Clone the repo
+- Open the .py file in a python editor (I used IDLE 3.7)
+- Run the program.
 
