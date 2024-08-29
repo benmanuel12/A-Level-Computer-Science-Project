@@ -429,7 +429,8 @@ def Virus_Turn():
                         news_feed_content.set('The virus has taken no action')
         else:
             news_feed_content.set('The virus has taken no action')
-    
+
+#---------- Level: 1-----Infectiousness: 2----------
     elif virus_level_num.get() == 1 and virus_infect_num.get() == 2:
         if turn_action == 1 or turn_action == 2:
             turn_action2 = randint(1,2) 
@@ -479,6 +480,7 @@ def Virus_Turn():
                     news_feed_content.set('The virus has taken no action')
         else:
             news_feed_content.set('The virus has taken no action')
+
 #---------- Level: 1-----Infectiousness: 3----------
     elif virus_level_num.get() == 1 and virus_infect_num.get() == 3: 
         if turn_action == 1 or turn_action == 2: 
